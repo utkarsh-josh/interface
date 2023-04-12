@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/utkarsh-josh/interface/rectangle"
 	"github.com/utkarsh-josh/interface/circle"
+	"github.com/utkarsh-josh/interface/rectangle"
 )
 
 func main() {
